@@ -1,5 +1,6 @@
 <form action="action_page.php">
   <div class="container">
+    <title> Welcome to Jenkins, Ansible and Docker. </title>	  
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account, or not.</p>
     <hr>
